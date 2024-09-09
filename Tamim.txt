@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Wowtamimwow
+=======
+Wowtamimwow
+>>>>>>> 315cec223a034a7692ea3a6f5e88a038072e9766
